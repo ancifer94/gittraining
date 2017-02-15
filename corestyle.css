@@ -1,3 +1,8 @@
 div {
-    font-family:120%, Verdana; color: rgba(255,0,0,0.5); 
+    font-family: Verdana, serif;
+    color: rgba(255, 0, 0, 0.5);
+}
+
+#beauty {
+    color: #1B5C1B;
 }
